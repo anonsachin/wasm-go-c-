@@ -49,6 +49,5 @@ func main() {
 		}
 		fmt.Println(result) // 42!
    }
-
     
 }
